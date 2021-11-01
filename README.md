@@ -11,7 +11,7 @@ Controls are simple, wasd to move around and mouse to look around.
 
 To see what the project looks like in the editor, take a look at the software demo video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=MbIqA6z1lMs)
 
 # Development Environment
 
